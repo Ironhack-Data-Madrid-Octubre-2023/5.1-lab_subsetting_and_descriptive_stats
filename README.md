@@ -4,6 +4,8 @@
 # Lab | Subsetting and descriptive stats
 
 
+
+
 ## Introduction
 
 As a data analyst you will have to work with a big amount of data. Extracting meaningful insights from your data can be done by dividing your data into subsets using Pandas library. It's a simple way to perform several type of analyses such as descriptive statistics.
