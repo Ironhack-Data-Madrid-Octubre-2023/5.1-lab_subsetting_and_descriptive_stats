@@ -1,6 +1,6 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
+MARINA LUQUE
 # Lab | Subsetting and descriptive stats
 
 
